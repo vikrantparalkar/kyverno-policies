@@ -17,7 +17,7 @@ On a very high level, A DevOps Engineer will write the required Kyverno Policy c
 
 ![Screenshot 2023-02-19 at 12 40 48 PM](https://user-images.githubusercontent.com/43399466/219934201-b542599a-7f8a-4b72-a1bf-5db6ba1bfade.png)
 
-### Kyverno
+### Kyverno Installation
 
 There are two easy ways to install kyverno:
 
