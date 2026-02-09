@@ -78,3 +78,9 @@ Additional policy types include PolicyException and (Cluster)CleanupPolicy which
 ### Architecture
 
 ![image](https://user-images.githubusercontent.com/43399466/219931795-dce93e3b-9f78-42ef-ba5e-9aa685252e2f.png)
+
+## Some Commands
+kubectl get clusterpolicy
+kubectl edit clusterpolicy <name-of-policy>
+kubectl logs -n kyverno deploy/kyverno-admission-controller
+kubectl apply -f policies/require-requests-limits.yaml
