@@ -1,4 +1,4 @@
-### kyverno/policies link ==> https://github.com/kyverno/policies
+#### For more kyverno policies manifest files ==> https://github.com/kyverno/policies
 
 # Enforce Automated k8s cluster security using kyverno policy generator
 
